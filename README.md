@@ -8,9 +8,9 @@ An E Commerce Project with multiple features | [ShopMate](https://shop-mate-qgsj
 
 My Portfolio Website | [Link](https://thekmanish.github.io/portfolio/)
 
-To reach me, mail at : [itsksmanish@gmail.com](mailto:itsksmanish@gmail.com)
+To reach me, mail at : [officialmanishksingh@gmail.com](mailto:officialmanishksingh@gmail.com)
 
-To download my resume, [Click here](https://thekmanish.github.io/portfolio/ManishKumarSingh_Resume.pdf)
+To see my resume, [Click here](https://thekmanish.github.io/portfolio/ManishKumarSingh_Resume.pdf)
 
 
 
